@@ -1,0 +1,33 @@
+.square{
+    width: 0px;
+    height: 0px;
+    border:100px solid;
+    border-bottom-color: blue;
+    border-top-color: green;
+    border-left-color: yellow;
+    border-right-color: red;
+}
+.top{
+    width: 210px;
+    height: 100px;
+    background-color: transparent;
+    margin-left: 100px;
+}
+.middle{
+    width: 200px;
+    height: 50px;
+    background-color: lightgreen;
+    border:5px solid green;
+    border-top-style:double;
+    border-bottom-style: dotted;
+    margin-left: 100px;
+    
+}
+.bottom{
+    width: 150px;
+    height: 200px;
+    background-color: lightgreen;
+    border:5px solid green;
+    border-top-style: none;
+    margin: 0px 25px 0px 125px;
+}
